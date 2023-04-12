@@ -1,0 +1,11 @@
+train: C:\Users\User\Desktop\FIBO\3-2\Open Topic\Dog_classification\dog_train  
+val: C:\Users\User\Desktop\FIBO\3-2\Open Topic\Dog_classification\dog_train
+
+# Classes
+names:
+  0: french_bulldog
+  1: german_shepherd
+  2: golden_retriever
+
+
+
